@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OxiGym:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OxiGym_jar</output-path>
+    <root id="archive" name="OxiGym.jar">
+      <element id="module-output" name="First_Java_Project" />
+    </root>
+  </artifact>
+</component>
